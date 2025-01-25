@@ -26,7 +26,7 @@ Advanced concepts in Android Development
 
 🤝Projects I've collaborated on 
 Talent Platform for JPD HUB [https://github.com/na-ch7/Advitiya.git]
-Kampus Web []
+Kampus Web [https://github.com/na-ch7/kampus.git]
 
 🤝 Let's Collaborate!
 
