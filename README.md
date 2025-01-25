@@ -26,5 +26,7 @@ I'm always open to collaborating on exciting projects, learning new things, and 
 
 📫 Contact Me
 Email: [tanishka.16k@gmail.com]
+
 LinkedIn: https://www.linkedin.com/in/tanishka-kumari-294413259/
+
 GitHub: Tanishka Kumari
