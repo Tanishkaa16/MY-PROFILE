@@ -26,7 +26,7 @@ Advanced concepts in Android Development
 
 🤝Projects I've collaborated on 
 
-Eco-Lifestyle and volunteering platform []
+Eco-Lifestyle and volunteering platform [https://github.com/Tanishkaa16/EarthMates.git]
 
 Talent Platform for JPD HUB [https://github.com/na-ch7/Advitiya.git]
 
